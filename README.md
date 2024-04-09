@@ -17,8 +17,7 @@ I'm a seasoned software engineer with a passion for building innovative web appl
 - Front End: HTML, CSS(including preprocessors like Sass or Less), JavaScript, Bootstrap, React.js
 - Back End: Java, Spring Boot, Spring Framework, Spring MVC
 - Additional: [Add more tech stack relevant to your preferences and projects]
-- Design Tools: Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom
-- 
+- Design Tools: Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom 
 
 ## More About Me:
 
