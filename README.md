@@ -1,4 +1,4 @@
-# Hi there, I'm Divyanshu Sharma, but you can call me DXS! 👋
+# Hi there, I'm Divyanshu Sharma, but you can call me Dev! 👋
 
 ## About Me
 🌟 Software Engineer | Web Developer | Front End Enthusiast 🌟
