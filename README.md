@@ -4,6 +4,17 @@
 🌟 Software Engineer | Web Developer | Front End Enthusiast 🌟
 I'm a seasoned software engineer with a passion for building innovative web applications, crafting intuitive user interfaces, and exploring the latest technologies. With a strong background in web development, front-end design, and UI/UX, I thrive on turning ideas into reality through code.
 
+## Tech Stack
+I work with:  
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,postman,gradle,maven,mysql,vscode,react,bootstrap,svg,figma,jenkins,docker&perline=8)](https://skillicons.dev)    
+
+I also know:  
+[![My Skills](https://skillicons.dev/icons?i=python,xd,ai,kafka,linux,mongodb,unity,threejs&perline=8)](https://skillicons.dev)  
+- Front End: HTML, CSS(including preprocessors like Sass or Less), JavaScript, Bootstrap, React.js
+- Back End: Java, Spring Boot, Spring Framework, Spring MVC
+- Additional: [Add more tech stack relevant to your preferences and projects]
+- Design Tools: Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom
+  
 ## Currently Working On:
 
 🚀 Front End Development using HTML, CSS, JavaScript, and React.
@@ -11,13 +22,6 @@ I'm a seasoned software engineer with a passion for building innovative web appl
 🎨 Designing stunning graphics and interfaces for web applications.
 📊 Exploring Data Infographics and Data Visualization techniques.
 🤖 Delving into Machine Learning and Artificial Intelligence for innovative solutions.
-
-## Current Tech Stack
-
-- Front End: HTML, CSS(including preprocessors like Sass or Less), JavaScript, Bootstrap, React.js
-- Back End: Java, Spring Boot, Spring Framework, Spring MVC
-- Additional: [Add more tech stack relevant to your preferences and projects]
-- Design Tools: Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom 
 
 ## More About Me:
 
