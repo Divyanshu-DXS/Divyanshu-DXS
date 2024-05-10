@@ -6,10 +6,10 @@ I'm a seasoned software engineer with a passion for building innovative web appl
 
 ## Tech Stack
 I work with:  
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,postman,gradle,maven,mysql,vscode,react,bootstrap,svg,figma,jenkins,docker&perline=8)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,postman,gradle,maven,mysql,vscode,react,linux,bash,figma,jenkins,docker&perline=8)](https://skillicons.dev)    
 
 I also know:  
-[![My Skills](https://skillicons.dev/icons?i=python,xd,ai,kafka,linux,mongodb,unity,threejs&perline=8)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,xd,ai,ae,kafka,bootstrap,svg,mongodb,unity,threejs&perline=5)](https://skillicons.dev)  
 - Front End: HTML, CSS(including preprocessors like Sass or Less), JavaScript, Bootstrap, React.js
 - Back End: Java, Spring Boot, Spring Framework, Spring MVC
 - Additional: [Add more tech stack relevant to your preferences and projects]
