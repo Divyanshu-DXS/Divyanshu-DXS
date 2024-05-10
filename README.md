@@ -1,4 +1,4 @@
-# Hi there, I'm Divyanshu Sharma, but you can call me Dev! 👋
+# Hey there! Dev here 👋. Learning, crafting, experimenting, and growing.
 
 ## About Me
 🌟 Software Engineer | Web Developer | Front End Enthusiast 🌟
