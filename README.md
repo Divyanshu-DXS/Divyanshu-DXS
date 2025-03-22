@@ -12,7 +12,6 @@ I also know:
 [![My Skills](https://skillicons.dev/icons?i=python,xd,ai,ae,kafka,bootstrap,svg,mongodb,unity,threejs&perline=5)](https://skillicons.dev)  
 - Front End: HTML, CSS(including preprocessors like Sass or Less), JavaScript, Bootstrap, React.js
 - Back End: Java, Spring Boot, Spring Framework, Spring MVC
-- Additional: [Add more tech stack relevant to your preferences and projects]
 - Design Tools: Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom
   
 ## Currently Working On:
