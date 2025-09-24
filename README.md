@@ -1,10 +1,13 @@
 # Hey there! Dev here 👋. Learning, crafting, experimenting, and growing.
 
 ## About Me
-🌟 Cybersecurity Enthusiast | Software Engineer | Problem Solver 🌟 <br>
+🚀 Software Engineer | Java Backend Developer | Cybersecurity Aware <br>
 🚀 Fueled by curiosity, driven by innovation, and secured by passion! <br>
 <br>
-My journey began in software development, but my growing interest in cybersecurity, system defense, and risk mitigation led me to explore the world of security. I thrive at the intersection of technology, security, and problem-solving, constantly learning how to fortify systems, analyze threats, and build resilient solutions. Whether it’s writing clean code, optimizing security workflows, or diving into new tools, I’m always pushing myself to grow and adapt in this ever-evolving field. 
+I design and develop **robust backend systems** with a primary focus on **Java, Spring Boot, and distributed application architecture**. My work emphasizes **clean code, concurrency management, API design, and database integration**, ensuring solutions are both **scalable and maintainable**.  
+
+I bring a **security-conscious approach** to development, integrating practices such as **log analysis, threat detection, and vulnerability assessment** into the engineering lifecycle. This dual expertise enables me to build systems that are **efficient, resilient, and secure by design**.  
+
 
 ## Tech Stack
 I work with:  
@@ -12,22 +15,32 @@ I work with:
 
 I also know:  
 [![My Skills](https://skillicons.dev/icons?i=xd,ai,ae,kafka,bootstrap,svg,react,mongodb,unity,threejs&perline=5)](https://skillicons.dev)  
-- Security: SIEM, Splunk, Wireshark, OSINT tools, vulnerability assessments.
-- Scripting & Automation: PowerShell, Linux shell scripting, Python for security.
-- Front End: HTML, CSS(including preprocessors like Sass or Less), JavaScript, Bootstrap, React.js
-- Back End: Java, Spring Boot, Spring Framework, Spring MVC
-- Design Tools: Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom
+## 🛠 Core Competencies  
+- **Languages & Frameworks:** Java (Core, Collections, Concurrency, Multithreading), Spring Boot, Spring MVC, Python (automation & log parsing), React.js  
+- **Backend Engineering:** REST API design, database modeling, ORM, microservices, unit/integration testing, CI/CD workflows  
+- **Software Architecture:** OOP, design patterns, service-oriented design, fault-tolerant systems  
+- **Security & Analysis:** Log parsing (Regex), SIEM concepts, Splunk, Wireshark, OSINT, vulnerability scanning  
+- **Systems & Tools:** Linux shell scripting, PowerShell, Docker
+- **Design Tools:** Figma, Adobe XD, Sketch, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom
   
 ## Currently Working On:
 
-🔍 Building a SOC Homelab for hands-on security analysis.<br>
-📖 Preparing for certifications.<br>
-⚡ Developing security scripts & automation tools.<br>
-🛠️ Experimenting with cybersecurity challenges (CTFs, labs).<br>
-🔥 Java Development for backend services.<br>
-🎨 Designing stunning graphics and interfaces for web applications.<br>
-📊 Exploring Data Infographics and Data Visualization techniques.<br>
-🤖 Delving into Machine Learning and Artificial Intelligence for innovative solutions.<br>
+- Designing **Spring Boot microservices** optimized for concurrency, modularity, and fault tolerance
+- Building a **Log Analyzer** integrating regex pipelines for anomaly detection
+- Mastering **concurrent programming** and JVM internals for high-performance code
+- Developing **Python automation scripts** to enhance security monitoring and log enrichment
+- Building a SOC Homelab for hands-on security analysis.
+- Experimenting with cybersecurity challenges (CTFs, labs).<br>
+- Intuitive UI/UX practices 
+- 🤖 Delving into Machine Learning and Artificial Intelligence for innovative solutions.<br>
+
+## 📈 Technical Growth Path  
+
+- **Deepening Software Engineering Expertise**: mastering JVM performance tuning, Java concurrency, and microservice orchestration.  
+- **Expanding Cybersecurity Acumen**: building detection rules, SOC workflows, and advanced threat modeling.  
+- **Bridging Dev & Sec**: applying secure coding, log analytics, and system hardening to modern backend systems.  
+
+---
 
 ## More About Me:
 
